@@ -1,7 +1,7 @@
 {
-    "name": "symfony-ddd/library",
-    "type": "ddd-library",
-    "description": "A framework agnostic structure providing specifying domain concepts",
+    "name": "domain-engine/library",
+    "type": "library",
+    "description": "A framework agnostic structure providing domain concepts specifications",
     "keywords": [
         "ddd",
         "library",
