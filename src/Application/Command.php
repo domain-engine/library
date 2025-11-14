@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace SymfonyDDD\Library\Application;
+namespace DomainEngine\Library\Application;
 
 interface Command
 {

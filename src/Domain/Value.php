@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace SymfonyDDD\Library\Domain;
+namespace DomainEngine\Library\Domain;
 
 interface Value
 {

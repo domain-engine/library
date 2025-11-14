@@ -1,4 +1,4 @@
-# SymfonyDDD Library
+# DomainEngine Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.2-8892BF.svg)](https://www.php.net/)
@@ -33,7 +33,7 @@ composer require symfony-ddd/library
 ### Value Objects
 
 ```php
-use SymfonyDDD\Library\Value\StringValue;
+use DomainEngine\Library\Value\StringValue;
 
 class Email extends StringValue
 {
@@ -49,7 +49,7 @@ class Email extends StringValue
 ### Domain Events
 
 ```php
-use SymfonyDDD\Library\Domain\DomainEvent;
+use DomainEngine\Library\Domain\DomainEvent;
 
 class UserRegistered extends DomainEvent
 {
@@ -65,7 +65,7 @@ class UserRegistered extends DomainEvent
 ### Commands
 
 ```php
-use SymfonyDDD\Library\Application\Command;
+use DomainEngine\Library\Application\Command;
 
 class RegisterUserCommand extends Command
 {

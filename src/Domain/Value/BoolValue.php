@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace SymfonyDDD\Library\Domain\Value;
+namespace DomainEngine\Library\Domain\Value;
 
-use SymfonyDDD\Library\Domain\Value;
+use DomainEngine\Library\Domain\Value;
 
 abstract readonly class BoolValue implements Value
 {
