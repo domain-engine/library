@@ -25,7 +25,7 @@ A lightweight PHP library providing essential building blocks for Domain-Driven 
 ## Installation
 
 ```bash
-composer require symfony-ddd/library
+composer require domain-engine/library
 ```
 
 ## Usage
@@ -58,7 +58,6 @@ class UserRegistered extends DomainEvent
         private string $email
     ) {
     }
-   
 }
 ```
 
