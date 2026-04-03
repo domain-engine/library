@@ -1,21 +1,69 @@
-MIT License
+# Non-Commercial Open License (NCOL) v1.0
 
-Copyright (c) 2025 symfony ddd
+Copyright (c) 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Grant of Rights
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this work and associated files (the "Work"), to use, copy, modify, merge, publish, and distribute the Work, subject to the following conditions:
+
+---
+
+## Conditions
+
+### 1. Attribution
+You must give appropriate credit to the original author(s), provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+### 2. Non-Commercial Use Only
+You may **not** use the Work, in whole or in part, for commercial purposes. Commercial purposes include, but are not limited to:
+
+- Selling, licensing, or sublicensing the Work or any derivative thereof
+- Using the Work in a product or service that is sold or offered for monetary compensation
+- Using the Work in advertising, promotional, or marketing materials for a commercial entity
+- Incorporating the Work into proprietary software or services
+- Any use intended primarily for commercial advantage or monetary gain
+
+### 3. Share-Alike
+If you modify, transform, or build upon the Work, you must distribute your contributions under the **same license** as the original (NCOL v1.0). You may not apply legal terms or technological measures that legally restrict others from doing anything this license permits.
+
+### 4. No Additional Restrictions
+You may not impose any further legal or technical restrictions on recipients of the Work beyond those set forth in this license.
+
+---
+
+## Disclaimer of Warranties
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+---
+
+## Termination
+
+Your rights under this license terminate automatically if you fail to comply with any of its terms. Upon termination, you must destroy all copies of the Work in your possession.
+
+---
+
+## Definitions
+
+- **"Work"** means the creative, software, or other content made available under this license.
+- **"You"** means the individual or entity exercising the rights granted by this license.
+- **"Commercial purpose"** means any use primarily intended for or directed toward commercial advantage or monetary compensation.
+- **"Derivative work"** means any work that is based on or derived from the Work.
+
+---
+
+## How to Apply This License
+
+To apply this license to your work, include the following notice:
+
+```
+Copyright (c) 2025 Peter Brecska
+Licensed under the Non-Commercial Open License (NCOL) v1.0
+```
+
+---
+
+*This license was inspired by open-source and Creative Commons principles. It is not a substitute for legal advice. Consult a qualified attorney if you have questions about your specific situation.*
